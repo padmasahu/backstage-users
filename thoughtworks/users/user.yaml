@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: padma.sahu
+  name: padmasahu
   profile:
-    displayName: Padma Sahu
+    displayName: padmaSahu
     email: padma@thoughtworks.com
     picture:
 spec:
