@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: padma.sahu
+  profile:
+    displayName: Padma Sahu
+    email: padma@thoughtworks.com
+    picture:
+spec:
+  memberOf: [thoughtworks, awesome-pet]
