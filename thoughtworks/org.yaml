@@ -7,6 +7,6 @@ spec:
   targets:
     - ./groups/awesome-project.yaml
     - ./groups/tw.yaml
-    - ./users/users.yaml
     - ./groups/awesome-pet.yaml
+    - ./users/users.yaml
     - ./users/user.yaml
